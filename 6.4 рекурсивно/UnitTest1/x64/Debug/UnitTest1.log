@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\user\source\repos\6.4 рекурсивно\6.4 рекурсивно\Source.cpp(41): warning C4715: Task1_2subSet: значение возвращается не при всех путях выполнения
+C:\Users\user\source\repos\6.4 рекурсивно\6.4 рекурсивно\Source.cpp(51): warning C4715: Task1_2Complete: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\user\source\repos\6.4 рекурсивно\x64\Debug\UnitTest1.lib и объект C:\Users\user\source\repos\6.4 рекурсивно\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\user\source\repos\6.4 рекурсивно\x64\Debug\UnitTest1.dll

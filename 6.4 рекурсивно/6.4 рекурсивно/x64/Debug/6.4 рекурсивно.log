@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\6.4 рекурсивно\6.4 рекурсивно\Source.cpp(41): warning C4715: Task1_2subSet: значение возвращается не при всех путях выполнения
+C:\Users\user\source\repos\6.4 рекурсивно\6.4 рекурсивно\Source.cpp(51): warning C4715: Task1_2Complete: значение возвращается не при всех путях выполнения
+  6.4 рекурсивно.vcxproj -> C:\Users\user\source\repos\6.4 рекурсивно\x64\Debug\6.4 рекурсивно.exe
